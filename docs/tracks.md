@@ -1,103 +1,52 @@
-# Tracks
+slow-tribe
 
-### pipes
 
-* Behind the Mountain
-* 90
-* 5:15
+trip
 
-### trip
 
-* ?
-* 160
-* 3:25
+neuclid
 
-### crunch3
 
-* ?
-* 160
-* 4:00
+serendipity
 
-### serendipity
 
-* Serendipity
-* 140
-* 3:40
+redneck
 
-### redneck
 
-* ?
-* 140
-* 4:00
+flypaper
 
-### flypaper
 
-* ?
-* 120
-* 1:30
+pipes
 
-### toms
 
-* ?
-* 90
-* 2:00
+toms
 
-### jolt
 
-* ?
-* 160
-* 2:00
+jolt
 
-### marimba
 
-* ?
-* 120
-* 3:00
+marimba
 
-### party-time
 
-* ?
-* 140
-* 2:30
+party-time
 
-### homebrew
 
-* ?
-* 150
-* 5:00
+homebrew
 
-### dub-bells
 
-* ?
-* 160
-* 4:15
+yuke
 
-### boomer
 
-* ?
-* 140
-* 2:00
+sewing
 
-### yuke
 
-* ?
-* 145
-* 2:00
+neck
 
-### sewing
 
-* ?
-* 160
-* 2:00
+boomer
 
-### neck
 
-* ?
-* 160
-* 1:45
+morris
 
-### lapsed
 
-* Lapsed
-* ?
-* 2:00
+lapsed
