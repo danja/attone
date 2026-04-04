@@ -1,54 +1,37 @@
 
-Aperture
-slow-tribe
+01 Aperture
 
-Confirmation Bias
-trip
+02 Confirmation Bias
 
-Neuclid
-neuclid
+03 Neuclid
 
-Serendipity
-serendipity
+04 Serendipity
 
-The Viper
-redneck
+05 The Viper
 
-Paper Cut
-flypaper
+06 Paper Cut
 
-Beyond the Mountains
-pipes
+07 Beyond the Mountains
 
-Marginalia
-toms
+08 Marginalia
 
-Muricene
-dub-bells
+09 Muricene
 
-Testdue
-marimba
+10 Testdue
 
-Ozymandias
-party-time
+11 Ozymandias
 
-Street of Shame
-homebrew
+12 Street of Shame
 
-Ghast
-yuke
+13 Ghast
 
-Editor's Wives Club
-sewing
+14 Editor's Wives Club
 
-Unliminal
-neck
+15 Unliminal
 
-Microplastic's Great Adventure
-boomer
+16 Microplastic's Great Adventure
 
-Agreste
-morris
+17 Agreste
 
-Sheffield's Not Real
-lapsed
+18 Sheffield's Not Real
+
