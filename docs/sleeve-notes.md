@@ -1,3 +1,4 @@
+Spike & Wave : Attone
 
 01 Aperture
 
@@ -35,3 +36,10 @@
 
 18 Sheffield's Not Real
 
+Recorded 2025-26 at Mozzanella Polytechnic. 
+Copyright (c) Danny Ayers 2026
+
+Grateful thanks to Marinella Poggi, Jacopo Buzzi & Nigel Ayers for their support and encouragement.
+
+https://danny.ayers.name
+http://github.com/danja
