@@ -17,9 +17,8 @@ by *Spike & Wave*
 
 ![back cover](images/back.png)
 
-<<<<<<< HEAD
 Material provided here for personal use only, all rights reserved, (c) [Danny Ayers](https://danny.ayers.name) 2026
-=======
+
 ## Links
 
 * Most music code experiments : https://github.com/danja/flues
@@ -32,6 +31,3 @@ Material provided here for personal use only, all rights reserved, (c) [Danny Ay
 * Something else : https://strandz.it
 
 
-
-Material provided here for personal use only, all rights reserved, (c) Danny Ayers 2026
->>>>>>> 297975c3746bfb1fd735b49589818ea1deac4ab7
