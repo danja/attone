@@ -18,6 +18,7 @@ by Spike & Wave
 ## Links
 
 * Most music code experiments : https://github.com/danja/flues
+* Some VSTs : https://github.com/danja/downspout
 * Daisy Seed projects : https://github.com/danja/daisy-maybe
 
 *the following might not be live at the moment, I'm lousy at budgeting*
