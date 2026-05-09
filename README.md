@@ -2,11 +2,13 @@
 
 by Danny Ayers/*Spike & Wave*
 
+Available on :
+
 * [Bandcamp](https://dannyayers.bandcamp.com/album/attone)
 * [YouTube](https://www.youtube.com/playlist?list=PLcI4DK1XcRAHjA180H0dYr7Dvaju027RV)
 * [Spotify](https://open.spotify.com/album/4RRP11wg5aI3zDugMt3gcr)
 
-## Content
+and here :
 
 * [Audio Files](wav16) (16 bit stereo, 44.1 kHz)
 * [Colophon](/docs/colophon.md)
