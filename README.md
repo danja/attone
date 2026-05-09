@@ -1,10 +1,10 @@
 # Attone
 
-by *Spike & Wave*
+by Danny Ayers/*Spike & Wave*
 
-**Status 2024-04-14 :** sounds *probably* done, cover art, proper release etc. still to do.
-
-**[Tracks on YouTube](https://www.youtube.com/playlist?list=PLcI4DK1XcRAHjA180H0dYr7Dvaju027RV)** (pre-release)
+* [Bandcamp](https://dannyayers.bandcamp.com/album/attone)
+* [YouTube](https://www.youtube.com/playlist?list=PLcI4DK1XcRAHjA180H0dYr7Dvaju027RV)
+* [Spotify](https://open.spotify.com/album/4RRP11wg5aI3zDugMt3gcr)
 
 ## Content
 
@@ -24,9 +24,6 @@ Material provided here for personal use only, all rights reserved, (c) [Danny Ay
 * Most music code experiments : https://github.com/danja/flues
 * Some VSTs : https://github.com/danja/downspout
 * Daisy Seed projects : https://github.com/danja/daisy-maybe
-
-*the following might not be live at the moment, I'm lousy at budgeting*
-
 * My homepage : https://danny.ayers.name
 * Some previous projects : https://hyperdata.it
 * Something else : https://strandz.it
